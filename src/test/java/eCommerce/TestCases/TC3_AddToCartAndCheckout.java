@@ -108,6 +108,8 @@ public class TC3_AddToCartAndCheckout extends TC2_Women_Printed_Summer_Dress {
        
 	        intScreenShot++;
 	   
+	        
+	       // Check TC3 new changes is looking or not 
 	}
 
 }
