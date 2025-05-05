@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <classes>
+ <!--  <class name="eCommerce.TestCases.TC1_AccountLogin"/>   -->
+ <!--   <class name="eCommerce.TestCases.TC2_Women_Printed_Summer_Dress"/>  -->
+  <class name="eCommerce.TestCases.TC3_AddToCartAndCheckout"/> 
+  <!--    <class name="com.mystore.testcases.tc2_CreateAccount"/>  -->
+     <!--   <class name="Test.dummy"/>  -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
